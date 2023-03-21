@@ -10,5 +10,5 @@
 ![2023-03-20 (2)](https://user-images.githubusercontent.com/91918988/226500090-3b24b868-4390-4835-8a4e-1910ef95518d.png)
 
 ## Pronto, esse foi um exemplo de um possivel passo a passo de cadastro qualquer, basicamente terá que dividir todas as etapas do processo e colocá-las em código!
-Explicarei melhor daqui em diante:
+* Explicarei melhor daqui em diante:
 * Aguardando...
