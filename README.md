@@ -11,4 +11,5 @@
 
 ## Pronto, esse foi um exemplo de um possivel passo a passo de cadastro qualquer, basicamente terá que dividir todas as etapas do processo e colocá-las em código!
 * Explicarei melhor daqui em diante:
+Usaremos o pyautogui, já que o script foi feito em python 3
 * Aguardando...
